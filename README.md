@@ -5,8 +5,7 @@
 - Daud Abdulrahman Okikiola  
 - Bill Ondiech  
 - Lewis Mudaida  
-- [Add Final Group Member’s Name Here]
-
+- Ishaq Abdullah Tijani
 
 
  📘 Project Overview
@@ -69,7 +68,7 @@ Each group member contributed as follows:
 - **Daud Abdulrahman Okikiola** — Explanation of PyTorch and its structure  
 - **Bill Ondiech** — Comparison between TensorFlow and PyTorch  
 - **Lewis Mudaida** — Use cases and AI application examples  
-- **[Final Member]** — Conclusion and summary  
+- 	Ishaq Abdullah Tijani — Conclusion and summary  
 
 
 
@@ -96,3 +95,5 @@ cd ai-tools-mastering-tensorflow-pytorch
 git add mastering_ai_tools.ipynb README.md
 git commit -m "Initial AI Tools project upload"
 git push origin main
+
+Assignment presentation link: https://drive.google.com/file/d/1d-ISDXnKhTnRlBqC5LbuhKz5IKdLLA2j/view?usp=drive_link
